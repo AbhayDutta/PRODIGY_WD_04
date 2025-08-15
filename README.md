@@ -21,11 +21,6 @@ A modern and responsive **personal portfolio** built using **HTML, CSS, and Java
 
 ---
 
-## 🌐 Live Demo
-[**View Live Portfolio**](https://abhaydutta.github.io/PRODIGY_WD_04/)  
-
----
-
 ## 📸 Screenshots
 
 
