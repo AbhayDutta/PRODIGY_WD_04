@@ -29,7 +29,7 @@ A modern and responsive **personal portfolio** built using **HTML, CSS, and Java
 ## 📸 Screenshots
 
 
-![Portfolio Home](assets/screenshots/home.png)
+![Portfolio Home](assets/img/ss.png)
 
 
 
